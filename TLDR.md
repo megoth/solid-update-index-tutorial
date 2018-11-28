@@ -1,4 +1,4 @@
-# How to update your front page in a Solid POD and signal that it shouldn't be overwritten by your POD provider - short version
+# How to update your front page of your Solid POD and signal that it shouldn't be overwritten by your POD provider - short version
 
 This tutorial is a short version of [the full tutorial](./README.md).
 

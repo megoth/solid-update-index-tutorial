@@ -1,4 +1,4 @@
-# How to update your index.html in a Solid POD and signal that it shouldn't be overwritten by your POD provider
+# How to update your front page of your Solid POD and signal that it shouldn't be overwritten by your POD provider
 
 Your Solid POD contains a `index.html` file that acts as the front page of your POD. The rule is that only you can control it, but that makes it difficult for POD providers to update it as new functionality becomes available. We expect most people to want this updates, but want to respect those who wants to customize their front page fully without it being overwritten by later updates from the POD provider, so we have created an opt-out mechanism for the automatic update. (This can later be changed back to automatic update if you change your mind.)
 
